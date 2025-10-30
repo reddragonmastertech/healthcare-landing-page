@@ -1,6 +1,6 @@
 # Healthcare Landing Page
 
-### This is build by Vasyl
+### This is built by Vasyl
 
 ## Project info
 
